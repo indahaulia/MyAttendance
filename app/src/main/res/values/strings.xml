@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">4516_A11.2019.11684_Indah Aulia Andriani_UTSPPB</string>
+
+    <array name="checkin_list">
+        <item>Check In : 07.00</item>
+        <item>Check In : 07.00</item>
+        <item>Check In : 07.00</item>
+        <item>Check In : 07.00</item>
+        <item>Check In : 07.00</item>
+        <item>Check In : 07.00</item>
+        <item>Check In : 07.00</item>
+        <item>Check In : 07.00</item>
+        <item>Check In : 07.00</item>
+        <item>Check In : 07.00</item>
+        <item>Check In : 07.00</item>
+    </array>
+    <array name="checkout_lits">
+        <item>Check Out : 17.00</item>
+        <item>Check Out : 17.00</item>
+        <item>Check Out : 17.00</item>
+        <item>Check Out : 17.00</item>
+        <item>Check Out : 17.00</item>
+        <item>Check Out : 17.00</item>
+        <item>Check Out : 17.00</item>
+        <item>Check Out : 17.00</item>
+        <item>Check Out : 17.00</item>
+        <item>Check Out : 17.00</item>
+        <item>Check Out : 17.00</item>
+    </array>
+</resources>
